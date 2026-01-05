@@ -406,3 +406,357 @@ O que é SERP e qual a sua estrutura básica;
 O que é algoritmo do Google, e entendeu as principais atualizações da plataforma que moldam o que entendemos por SEO hoje;
 O que são os Googlebots: responsáveis por fazer a leitura de todas as páginas da internet para enviar essa informação para a inteligência de máquina do buscador Google;
 Quais os principais fatores de rastreamento, indexação e classificação de resultados da pesquisa orgânica do Google e demais buscadores.
+
+#05/01/2026
+
+@03-Estratégias de SEO
+
+@@01
+Planejamento estratégico
+
+Vamos falar agora sobre nosso planejamento estratégico. Discutiremos como traçar o planejamento para a WorkUs e como você pode traçá-lo para a empresa em que você colabora ou na sua própria empresa.
+Pilares de um bom planejamento de SEO
+Embora não sejam os únicos fatores, os seguintes elementos são indispensáveis para o seu roteiro de criação, em colaboração com sua equipe ou com quem está colaborando com você neste projeto.
+
+Conteúdo relevante para os usuários
+O primeiro desses pilares é garantir, atingir a mais alta certeza possível, que o conteúdo que você oferece para as pessoas usuárias é relevante e de qualidade.
+
+Esse é o ponto principal do seu planejamento de SEO, pois todo SEO é baseado no conteúdo que você oferece para as pessoas em seu site, seja em seus artigos de blog, seja nas páginas que descrevem cada um dos seus serviços.
+
+Deve-se oferecer um conteúdo relevante, alinhado com as palavras-chave que as pessoas usuárias utilizam em suas pesquisas e com a intenção de busca delas, além de estar em conformidade com o serviço que você oferece.
+
+Requisitos do Google (otimizações on page)
+Outro pilar importante para a lista de um bom planejamento de SEO é fazer com que sua página de destino cumpra todos os requisitos de otimizações on page do Google.
+
+É extremamente importante seguir à risca todas essas otimizações, sobre as quais discutiremos em detalhes mais adiante, para que o Google possa classificar seu site entre os melhores para a intenção de busca das pessoas usuárias.
+
+Portanto, é necessário cumprir todos os requisitos, que não são tão difíceis e podem ser aplicados pela pessoa desenvolvedora que estará criando seu site junto com você ou sua equipe. São atualizações que podem ser feitas tranquilamente na plataforma que você está usando para desenvolver o site da sua empresa.
+
+Pesquisa de palavras-chave
+Pode parecer estranho a pesquisa de palavras-chave estar entre esses pilares de planejamento, mas todos estão totalmente alinhados e relacionados entre si.
+
+É a partir de uma pesquisa relevante de palavras-chave que você vai criar um conteúdo de qualidade para as pessoas usuárias que visitam seu site.
+
+Além disso, será mais fácil para você atender aos requisitos de otimização que o Google pede para classificá-lo na lista de resultados de indexação. Antes de começar a planejar estrategicamente, é importante ter isso em mente.
+
+Conteúdo relevante
+Mas, o que realmente seria um conteúdo relevante para as pessoas usuárias?
+
+Devemos considerar que a pessoa usuária quer ler exatamente a resposta ao que pesquisou, mas não quer apenas ler em um fundo branco com letras pretas. Espera-se que o conteúdo tenha uma boa escrita, seja convincente ou explicativo e apresente uma aparência agradável, seja responsivo e contenha uma boa descrição de todos os itens, links e imagens apresentados.
+
+Todos esses aspectos estão muito relacionados à experiência da pessoa usuária, ou seja, se ela ficará satisfeita ou não ao visitar e explorar os conteúdos oferecidos em sua página.
+
+Imagine que você buscou por "ferramentas de organização de tarefas" no Google. Se você se depara com uma imagem que traz, de fato, elementos de organização, como um quadro de tarefas com post-its alinhados, a probabilidade de você clicar naquele conteúdo é maior. Isso porque essa imagem nos remete à organização de etapas, ao processo, ao que deve ser seguido.
+
+Por outro lado, se ao pesquisar a mesma coisa, aparecer um conteúdo com uma imagem de itens aleatórios, como um ferro de passar, uma caneta, um vaso de planta e uma folha de papel branca com os dizeres "estratégia de marketing" escritos, a probabilidade de você clicar nele é menor. Afinal, esse tipo de imagem não faz referência ao que você está, de fato, buscando.
+
+É nisso que nós precisamos pensar quando começamos a filtrar se o nosso conteúdo está realmente relevante e de qualidade para a pessoa usuária ou não, quando colocamos o nosso conteúdo no ar.
+
+EAT - Expertise, Authority and Trustworthiness
+Existe uma diretriz própria do Google, que saiu junto com atualizações de algoritmos, que trata sobre esses requisitos de qualidade, confiabilidade e relevância para o nosso conteúdo. É a diretriz E-A-T, ou Expertise, Authority and Trustworthiness (Experiência, Autoridade e Confiabilidade).
+
+E o que cada uma dessas siglas significa? Por que é importante colocar esses conceitos no nosso radar na hora de criar conteúdo e oferecê-lo para as pessoas usuárias?
+
+Expertise
+A Expertise, como o nome já diz, é muito mais interessante quando tem uma pessoa especialista falando sobre determinado assunto.
+
+Imaginemos um cenário em que você é a pessoa que cuida do marketing de um site de uma clínica médica, com várias especialidades.
+
+O que você acha que tem maior expertise por trás? Um conteúdo criado e assinado por uma pessoa médica, que tem atuação na área e uma "comprovação" de que sabe sobre o que está falando? Ou um conteúdo criado por uma pessoa que não tem essa certificação e que talvez até saiba sobre o que fala, mas não passa confiança suficiente pois não comprova o conhecimento relacionado à profissão? A resposta parece clara!
+
+Mas, como o Google sabe disso? Como ele leva a expertise em consideração? Por meio de uma atualização de algoritmos chamada Medical Doctors que leva em consideração principalmente os resultados de sites que falavam sobre saúde. Ele conseguia fazer essa indexação rankeando melhor o conteúdo de pessoas autoras se elas fossem, de fato, profissionais da área da saúde.
+
+Essa diretriz passou a abranger todas as outras áreas de conteúdos e sites que temos publicados hoje em dia: quanto mais expertise tem a pessoa que está falando sobre aquele assunto, melhor para o Google. E por quê? Porque da expertise vem a autoridade.
+
+Autoridade
+Quanto mais conteúdo de valor você gera, mais autoridade no ramo você ganha.
+
+Ter autoridade na internet está muito associado à quantidade e qualidade de conteúdo. A quantidade deve sempre vir atrelada à qualidade. Não adianta fazer 100 posts no blog do site da sua empresa em um único dia se eles não tiverem o padrão de qualidade e de confiabilidade que o Google espera para oferecer às pessoas usuárias.
+
+Para gerar autoridade é preciso ter presença digital. Para ter presença digital, é preciso criar conteúdo com uma certa frequência, e um conteúdo efetivamente satisfatório para as pessoas que estão buscando por ele.
+
+Confiabilidade
+O seu site precisa passar segurança para a pessoa usuária, tanto na construção quanto na apresentação. Portanto, estamos falando também da estrutura do seu site, da arquitetura, do design.
+
+Se uma pessoa acessa seu site e depara-se imediatamente com um layout atraente, responsivo, limpo e objetivo, que oferece uma navegabilidade eficiente para o seu público-alvo e condizente com a linguagem que você almeja, essa estética agradável contribui para aumentar a confiança das pessoas que estão navegando em seus conteúdos, podendo potencialmente tornarem-se clientes.
+
+No entanto, este aspecto não só se aplica às pessoas que podem vir a se tornar clientes, mas também ao próprio Google, pois este consegue rastrear o tempo que o usuário passa no site.
+
+Se, por exemplo, a pessoa entra numa página e em poucos segundos fecha, isso significa que ela não encontrou o que estava procurando.
+
+Por outro lado, se a pessoa entra na página, desliza a barra de rolagem, indicando que está lendo o conteúdo, ou se reproduz um vídeo, se entra em outras páginas e começa a navegar pelo site, o Google é capaz de identificar que nós temos um conteúdo relevante e de qualidade para o usuário. Por isso, dedicamos muito esforço a esse aspecto.
+
+Essa é a diretriz EAT que levamos em consideração até hoje ao pensar em nosso planejamento estratégico e na criação do nosso conteúdo.
+
+@@02
+A arte do EAT: Expertise, Autoridade e Confiança no SEO.
+
+Tony é um especialista em tecnologia e proprietário de um site de notícias em tecnologia muito popular. Ele deseja otimizar o SEO de seu site e se deparou com o conceito de "EAT" (Expertise, Authoritativeness, Trustworthiness). Ele quer entender melhor como pode aplicar cada elemento EAT em seu site.
+Na perspectiva de Tony, qual das seguintes ações seria a mais eficaz para demonstrar expertise, autoridade e confiança no seu site de notícias sobre tecnologia para otimização do SEO?
+
+Publicar um leque variado de conteúdos que englobe uma ampla gama de interesses e não se restrinja unicamente à esfera tecnológica.
+ 
+Embora a diversidade de conteúdo possa ser interessante para alguns leitores, Tony deve manter o foco de seu site para demonstrar sua expertise no campo da tecnologia.
+Alternativa incorreta
+Publicar conteúdo dedicado apenas à venda de produtos de tecnologia.
+ 
+Essa abordagem não aborda diretamente os princípios do EAT. Enquanto ter produtos à venda pode ser parte de um site, a expertise, autoridade e confiança são demonstradas por meio de conteúdo.
+Alternativa incorreta
+Produzir conteúdo de qualidade focado na precisão, detalhamento e atualização das informações, fazer referências às fontes confiáveis e garantir a proteção da privacidade dos usuários.
+ 
+Esta é a maneira mais eficaz de Tony demonstrar expertise, autoridade e confiança em seu site, conforme os princípios do EAT.
+Alternativa incorreta
+Escrever postagens de blog sobre tecnologia baseadas em sua opinião.
+ 
+Alternativa incorreta
+Usar estratégias de SEO sem considerar a relevância e a qualidade do conteúdo.
+
+@@03
+Definição de objetivos
+
+Retomando o tópico do nosso Planejamento Estratégico de SEO, o ponto principal a ser discutido com sua equipe, ou as pessoas que estão contribuindo em seu projeto, é a definição dos objetivos.
+Qual é, afinal, o objetivo do site de sua empresa ou da empresa com a qual você está colaborando?
+Algumas pessoas podem questionar: "Qual é o objetivo do site? Ter um site, certo?". Porém, não é bem assim.
+
+Efetivamente, o site é a sua vitrine digital e representa sua identidade na internet. É crucial para qualquer empresa possuir um site para apresentar seus serviços ou produtos.
+
+No entanto, precisamos entender o que pretendemos com esse site. Queremos nos tornar uma autoridade no segmento do nosso serviço ou negócio? Pretendemos meramente vender para as pessoas interessadas em nosso serviço ou produto? Desejamos nos tornar criadores de conteúdo com certa influência na área?
+
+Portanto, é necessário definir o objetivo central antes da criação ou otimização do nosso site. Assim, podemos fornecer as melhores orientações para a pessoa desenvolvedora que estará conosco no projeto.
+
+Voltando ao exemplo da WorkUs, o que queremos nesse momento? Como pretendemos fazer com que as pessoas usuárias encontrem a WorkUs na lista da SERP, entre os melhores resultados para a busca de uma ferramenta ou aplicativo de gestão de tarefas e fluxo de trabalho?
+
+Queremos direcionar a pessoa usuária a um artigo que aborde a importância de ter um software que organize e automatize as tarefas da equipe. Queremos que esse artigo possua um botão de CTA - call to action (chamada para ação, em português), para que a pessoa usuária possa realizar um teste gratuito.
+Portanto, nosso objetivo inicial é fazer com que nosso conteúdo seja ranqueado, discutindo exatamente sobre a importância de ter uma ferramenta que gerencie tarefas, e estamos oferecendo juntamente um teste gratuito.
+
+Esse é o objetivo para o nosso projeto. Mas o objetivo do seu projeto pode ser diferente, a depender do seu próprio objetivo de negócio. Isso irá orientar seu planejamento.
+
+Deste modo, você pode ter como objetivo, por exemplo:
+
+Mais visualizações no seu site;
+Mais ligações para a sua empresa;
+Realizar uma venda direta se você tiver um e-commerce e estiver oferecendo produtos;
+Ter mais cadastros, leads para uma lista de contatos para uma futura estratégia de marketing.
+É importante ter essa definição neste momento, para que, quando começarmos a aplicar nossas otimizações de SEO, tenhamos um objetivo, um alvo. Devemos evitar dispersar nossos esforços em várias direções, porque nesse caso, nossa possibilidade de frustrar as nossas expectativas é bem maior.
+
+@@04
+Pesquisa de palavras-chave
+
+Agora, vamos falar sobre nossa pesquisa de palavras-chave. Antes de tudo, precisamos entender o que são essas palavras-chave e por que precisamos prestar tanta atenção a essa parte do nosso Planejamento Estratégico de SEO, que podemos considerar a principal de todo estudo de SEO.
+A pesquisa de palavras-chave serve para categorizar seu nicho de serviço ou produto de forma que seus potenciais clientes te encontrem de maneira mais rápida e assertiva nos buscadores.
+
+Lembra de quando falamos sobre indexação, rastreamento de conteúdo e classificação de resultados? O Google vai buscar, principal e inicialmente, nas palavras-chave de todo o conteúdo do seu site, os termos, termos relacionados e até sinônimos das intenções de busca das pessoas.
+
+Então, é crucial que as suas palavras-chave tenham uma conexão direta com os termos de busca que as pessoas estão utilizando no Google.
+
+Como podemos começar essa análise de palavras-chave? Quais são as principais palavras-chave?
+
+Podemos conduzir a pesquisa de palavras-chave por análise de mercado, literalmente fazendo um benchmark e observando a concorrência, entendendo o que outras empresas do mesmo segmento estão inserindo em seus conteúdos.
+
+Podemos também utilizar ferramentas específicas de pesquisa de palavras-chave, onde inserimos um termo correlato e recebemos uma lista ampla de termos que podemos usar no nosso conteúdo conforme o volume de buscas desses termos.
+
+Além disso, podemos empregar ferramentas de inteligência artificial, que proporcionam uma vasta gama de estudos e catálogos para usarmos em nossa página.
+
+Vamos entender na prática como isso funciona? Nos encontramos no próximo vídeo!
+
+@@05
+Para saber mais: modelo de briefing de SEO
+
+No mundo digital de hoje, onde a visibilidade online desempenha um papel fundamental nos negócios e nas estratégias de marketing, a otimização de mecanismos de pesquisa (SEO) se tornou uma ferramenta essencial. No entanto, antes de embarcar em qualquer campanha de SEO, seja ela para melhorar a classificação nos mecanismos de pesquisa ou aumentar o tráfego orgânico, há um elemento crítico que muitas vezes é negligenciado, mas que desempenha um papel fundamental no sucesso: o briefing para SEO.
+O que é um briefing para SEO?
+
+Um briefing para SEO é um documento detalhado que descreve os objetivos, metas e diretrizes para uma estratégia de otimização de mecanismos de pesquisa. Ele é usado como um guia para profissionais de SEO, redatores de conteúdo e outros membros da equipe envolvidos no processo. O objetivo principal de um briefing para SEO é fornecer informações claras e abrangentes para garantir que todos trabalhem na mesma direção, maximizando os resultados.
+
+Por Que o Briefing para SEO é Importante?
+
+Alinhamento de Objetivos: Um briefing eficaz ajuda a alinhar as metas da estratégia de SEO com os objetivos gerais do negócio. Ele garante que todos estejam trabalhando na mesma direção para alcançar resultados que contribuam para o sucesso da empresa.
+Economia de Tempo e Recursos: Ao fornecer informações detalhadas sobre o público-alvo, concorrência e requisitos específicos, um briefing ajuda a economizar tempo e recursos valiosos, evitando retrabalho e direcionando os esforços para o que realmente importa.
+Eficácia na Pesquisa de Palavras-Chave: O briefing ajuda na pesquisa de palavras-chave, identificando as principais palavras-chave relacionadas ao negócio e ao público-alvo. Isso é crucial para direcionar o conteúdo e as estratégias de SEO de maneira eficaz.
+Direcionamento de Conteúdo: Com um briefing sólido, os redatores de conteúdo têm uma compreensão clara do que deve ser produzido, qual é o tom de voz, quais mensagens-chave devem ser transmitidas e como o conteúdo se encaixa na estratégia geral de SEO.
+Avaliação de Desempenho: Um briefing bem elaborado define métricas de sucesso e critérios de avaliação. Isso permite que os profissionais de SEO acompanhem e avaliem o desempenho da estratégia e façam ajustes conforme necessário.
+Como vimos, briefing é o planejamento em que são definidos, de forma bem detalhada, todos os objetivos do projeto. Portanto, o seu preenchimento é indispensável.
+
+Disponibilizamos um modelo de briefing para que sirva de base para o seu projeto. Lembre-se que apenas um modelo, você tem total liberdade para adaptar ou criar o seu.
+
+Observação: Após o download do arquivo .xlsx da planilha disponível, é possível abri-la e editá-la no Google Sheets. Para isso, antes será necessário transferir o arquivo baixado para uma pasta do seu Google Drive.
+
+https://cdn3.gnarususercontent.com.br/3259-seo/2200+-+Aula+2+-+Modelo+de+Briefing+de+SEO.xlsx
+
+https://docs.google.com/spreadsheets/u/0/
+
+https://drive.google.com/
+
+@@06
+Faça como eu fiz: as primeiras palavras-chave (brainstorm!)
+
+Para começar o seu planejamento do site, é importante que você tenha um briefing completo e bem detalhado sobre a empresa, produto, serviços, personas e tudo mais que interesse o profissional de SEO. Então, antes de fazer esse passo de escrever as palavras-chave, preencha o briefing deixado para download antes do vídeo “Pesquisa de Palavras-chave”!
+Agora que você já tem todas as informações necessárias, escreva, por ordem de importância, 5 palavras-chave do seu negócio. Vou fazer com você, mas fugindo do exemplo da Joana.
+
+Eu sou uma profissional de marketing digital e estou criando meu site, onde divulgarei e ofertarei meus serviços de consultoria para pequenas e médias empresas. Minhas palavras-chave são:
+
+Profissional de marketing digital (mais genérica);
+Contratar marketing digital (ainda genérica, mas o contratar já afunila a pesquisa);
+Consultoria de marketing digital (aqui o usuário já sabe o que busca, mas não tão específico ainda);
+Consultor de marketing digital em SEO (pesquisa bem específica, o usuário busca uma única coisa e não várias respostas);
+Consultor de marketing digital em SEO para negócios locais e pequenos (bem específica, não é? Aqui o usuário vai direto ao ponto, e eu ofereço exatamente isso em meu site. Mas lembre-se, nem todo usuário pesquisa com tanto detalhe assim.
+
+Os diferentes níveis de palavras-chave - mais genéricas e mais específicas - podem se adequar muito bem ao seu objetivo de marketing. Por exemplo, se você traçar um objetivo de reconhecimento de marca o ideal é aparecer para o maior número de usuários possíveis, e nesse caso as palavras genéricas são ideais. Mas, se seu foco é a divulgação de um produto específico e bem nichado, use as palavras-chave menos genéricas para alcançar o usuário certo. E assim, você consegue ter conteúdos de diferentes níveis no seu site.
+
+@@07
+Pesquisa de mercado
+
+Vamos começar a praticar a pesquisa de palavras-chave para a nossa empresa, a WorkUs, projeto no qual estamos trabalhando nesse curso.
+Para iniciar, faremos uma análise de concorrência, uma análise simples de mercado.
+
+Vamos apenas pesquisar no Google uma a palavra-chave que acreditamos ser a principal para o nosso nicho de negócio. Com isso, vamos observar como os primeiros links, resultados orgânicos, estão se comportando para essa palavra-chave específica.
+
+A principal palavra-chave do produto da WorkUs é "organizador de tarefas", então vamos buscá-la no Google e analisar como essa palavra-chave está se comportando na SERP, ou seja, na página de resultados do Google.
+
+Começamos com a estrutura de links patrocinados. Temos o primeiro, segundo, terceiro e quarto links da SERP com a tag de patrocinado em negrito. Por meio disso, entendemos que para o termo de pesquisa "organizador de tarefas", o Google Ads disponibiliza um espaço de leilão de quatro links patrocinados inseridos na arquitetura da SERP.
+
+Nesse primeiro momento, não estamos buscando uma estratégia de link patrocinado. Queremos tentar aparecer depois desses links patrocinados, nos resultados orgânicos.
+
+Observamos que o primeiro resultado orgânico vem antes de perguntas frequentes elencadas pelo Google e direciona para artigos ou conteúdo educativo e informativo, por exemplo:
+
+Conheça os 15 melhores organizadores de tarefas!
+Organizador de tarefas: 7 ferramentas para planejar seus eventos.
+Não somos direcionados, inicialmente, para um site ou para um serviço de organizadores de tarefas.
+
+Depois, são apresentados links orgânicos de aplicativos de gerenciamento de tarefas. Esses últimos entram na nossa lista de concorrentes e podem nos ajudar a entender como eles estão se comportando dentro da SERP. São alguns:
+
+Todoist | A lista de tarefas para organizar o trabalho e a vida
+Klist | Gerenciador de tarefas
+Fazer essa pesquisa é fundamental para identificar os concorrentes que estão aparecendo na primeira página do Google para o mesmo tipo de serviço que oferecemos, possibilitando uma comparação efetiva.
+
+A primeira comparação, a mais precisa possível, é feita entre a nossa equipe e a partir do nosso conhecimento sobre o produto.
+
+É importante acessar o site do concorrente, fazer uma análise e questionar se ele oferece realmente o mesmo que oferecemos. Precisamos entender se estamos deixando de mostrar algum diferencial que o concorrente não expõe ou se há algum diferencial interessante oferecido pelo concorrente que possamos adaptar ao nosso contexto.
+
+Não estamos sugerindo a cópia de conteúdo, algo que não é nem benéfico para o SEO, nem para o negócio. Mas é essencial ter uma compreensão de como está o mercado, como está o segmento do seu produto e até de sua região, pois os resultados que o Google mostrará são provavelmente de empresas, links e sites que estão mais próximos de você e relacionados ao seu contexto e histórico de busca.
+
+É importante realizar essa primeira análise e anotar os insights obtidos. Esses insights nos darão subsídios para planejar melhor, ter mais conteúdo e insumo para criar conteúdo a partir de agora, e deixar o nosso SEO eficaz!
+
+@@08
+Pesquisa em ferramentas
+
+Com o bloco de notas aberto, vamos iniciar anotando alguns insights sobre nosso projeto da WorkUs.
+No último vídeo, notamos como os concorrentes utilizam o recurso de geração de conteúdo relevante para um bom ranqueamento na SERP, a fim de aparecer nos primeiros resultados de busca orgânica do Google. Vamos anotar:
+
+INSIGHTS
+Concorrência utiliza artigos informativos para rankear bem na SERP
+Porém, nossa pesquisa de palavras-chave não termina aqui. Podemos utilizar ferramentas, algumas pagas e outras gratuitas, para investigar mais sobre tendências de pesquisa e termos de busca das pessoas usuárias, seja em sua região ou em todo o país, conforme seu nicho e mercado.
+
+Vamos conhecer algumas das principais ferramentas que podemos utilizar atualmente para a pesquisa de palavras-chave.
+
+Keyword Tool
+Essa primeira ferramenta tem tanto uma versão paga quanto uma versão gratuita. Ela é bastante completa, trazendo informações dos principais buscadores disponíveis hoje na internet, como Google, YouTube, Bing, Amazon, eBay, Apple Store, Play Store, Instagram, Twitter, Pinterest e outros.
+
+A tela inicial da Keyword Tool apresenta uma barra de pesquisa, onde você pode inserir seu termo de pesquisa, a localização desejada, se for específica de uma região apenas ou mundial (worldwide), e o idioma em que a pesquisa será realizada.
+
+Buscar em ferramentas como essa é importante porque, durante a construção de conteúdo e a pesquisa de palavras-chave pela equipe, podemos ficar enviesados para uma única palavra-chave ou termo de pesquisa. Assim, acabamos desconsiderando diversos sinônimos e outros termos de pesquisa que também são relevantes e podem ser integrados na criação de conteúdo para blog ou na configuração das páginas do site.
+
+Vamos testar. Sabemos que a palavra-chave principal do nosso projeto é "organizador de tarefas". Na barra de pesquisa situada no centro da página inicial da Keyword Tool, alteramos o idioma para português e inserimos esse nosso termo de pesquisa principal.
+
+Vejamos o que o Keyword Tool nos apresenta como alternativas e insumos para este termo de pesquisa.
+
+Como mencionado, o Keyword Tool tem uma parte paga para acessarmos todos os detalhes. Qual a diferença entre a versão paga e a gratuita? Conseguimos identificar prestando atenção em alguns detalhes.
+
+Logo após a pesquisa e o carregamento da primeira página, temos na primeira coluna da tela o total de palavras-chave, no caso, 212 para termos relacionados com "organizador de tarefas". Na segunda coluna, há um total de volume de buscas apagado. Assim como as informações nas colunas seguintes, esse dado fica borrado.
+
+Para acessar esses dados mais detalhados, precisamos utilizar a versão paga da ferramenta. Isso pode ser muito útil para várias empresas, dependendo do cenário, para a equipe de criação de conteúdo. No entanto, não existe apenas essa ferramenta paga no mercado, então é importante pesquisar e testar para descobrir qual será mais adequada.
+
+Mas vamos começar nossa análise com essa ferramenta. Esta é a primeira visualização da página após a realização da pesquisa, e ao fazer o primeiro scrolling da página, temos todas as palavras-chave listadas pelo aplicativo.
+
+Esta lista se inicia com a palavra-chave "organizador de tarefas", que foi a primeira que trouxemos, e logo em seguida são apresentadas:
+
+app organizador de tarefas
+calendário organizador de tarefas
+melhor organizador de tarefas
+melhor app
+site
+caderno
+programa
+...
+Ou seja, essa ferramenta começa a nos fornecer opções de termos de pesquisa mais específicos ou mais generalistas. A partir daí, nós vamos identificando a relação desses termos com o nosso nicho de mercado e com o nosso produto.
+
+Por exemplo, nosso aplicativo é um "calendário organizador de tarefas"? Não. Então essa já é uma palavra-chave a ser excluída do nosso planejamento, pois não há necessidade de levar essa palavra-chave para o bloco de notas.
+
+E "melhor app organizador de tarefas"? Isso tem uma relação mais direta com o nosso produto.
+
+Com essa abordagem, nós identificamos termos que as pessoas usuárias já buscam e que têm relação com a nossa principal palavra-chave.
+
+Ubersuggest
+Outra ferramenta similar e intuitiva, como a Keyword Tool, é o Ubersuggest, do Neil Patel, referência em marketing digital.
+
+Nós podemos acessar as duas versões: com resultados gratuitos e pagos. Ele funciona essencialmente da mesma forma que o Keyword Tool.
+
+Na primeira visualização do site, temos um campo para inserir o nosso termo de pesquisa e escolher o idioma. Vamos repetir o processo, mas ao invés de "organizador de tarefas", vamos buscar "gestão de tarefas". Veremos o que essa ferramenta nos oferece para aprimorar nossos insights.
+
+Após carregar os resultados, o Ubersuggest apresenta uma página de análise. Vamos explorar as informações apresentadas.
+
+Iniciamos no topo da página, com nosso termo de pesquisa, "gestão de tarefas", o idioma português e o local da pesquisa, definido como Brasil. Opcionalmente, podemos definir outras localidades e idiomas de busca.
+
+Na segunda parte desta primeira visualização, temos a análise da palavra-chave dividida em quatro colunas:
+
+Volume de buscas: Ubersuggest informa que "gestão de tarefas" teve 590 buscas em 30 dias.
+SEO Difficulty (Competitividade SEO): nível estimado de concorrência na busca orgânica. Quanto maior esse número, mais competitiva é a palavra-chave.
+É importante manter esse segundo tópico em mente, porque existe uma correlação proporcional com o número de buscas. Quanto mais generalista for a palavra-chave, maior o volume de buscas para ela e, por consequência, maior a concorrência. Quando a palavra-chave é mais específica, o volume de buscas tende a ser menor, assim como a competição.
+
+Isso reforça a importância desta etapa de pesquisa de palavras-chave, para entender como as pessoas usuárias que estão nos buscadores se comportam diariamente.
+
+Paid Difficulty (Competitividade paga): nível estimado de concorrência na busca paga. Quanto maior esse número, mais competitiva é a palavra-chave. Ele também nos fornece um valor de 56 de dificuldade em busca paga.
+Custo por clique (CPC): Custo para anunciar na SERP dessa busca, caso estivéssemos anunciando com o Google Ads. A métrica nos fornece uma média aproximada do quanto os anunciantes estão pagando para ter esse termo vinculado ao seu site.
+Ao descermos a página, podemos observar o volume de buscas ao longo do tempo, em forma de gráfico, mas com um histórico limitado.
+
+Para liberar esse histórico de pesquisa de palavras-chave, é possível realizar um teste gratuito por sete dias, ou contratar o plano Premium.
+
+Isso é bastante interessante, especialmente no caso de um nicho específico de mercado, cujo produto ou serviço possui sazonalidade de busca.
+
+Por exemplo: buquês de rosas no Dia dos Namorados. Sabemos que haverá um mês no ano com um volume de buscas significativamente maior para aquele produto ou serviço, comparado com um mês sem datas festivas relacionadas ao produto.
+
+Portanto, é importante observar e entender como o gráfico de volume de buscas se comporta ao longo do ano.
+
+Descendo mais um pouco a página, temos as ideias de palavras-chave. O Ubersuggest fornece ideias de tendências de pesquisa, com base na inteligência de máquina adquirida com os dados dos principais buscadores nos últimos 30 dias.
+
+Algumas palavras-chave, como "gestão 4.0", "ferramenta de gestão de tarefas", "gerenciador de tarefas", "sistema de gestão de tarefas", são relevantes para o nosso negócio, a WorkUs. Outras palavras, como "gerenciamento de tarefas do Windows", não têm relação com o nosso serviço.
+
+Isso também nos proporciona ideias de palavras-chave que não queremos incluir em nosso projeto. Caso esteja executando uma campanha de pesquisa paga, essas palavras-chave serão negativadas em sua pesquisa, já que sua aparição não será satisfatória para a pessoa naquele momento de busca.
+
+Ferramentas como essas podem nos auxiliar muito com essa compilação de ideias baseadas em volume de buscas.
+
+Existem também outras ferramentas que podem ser interessantes e que estarão disponíveis após este vídeo, na seção "Para Saber Mais", para que você possa se aprofundar mais neste assunto.
+
+@@09
+Para saber mais: aprofundando pesquisa com tendências e variações de busca
+
+Na aula, vimos como ferramentas como o Keyword Tool e o Ubersuggest podem nos ajudar a encontrar termos relevantes para conteúdo e SEO. Mas o universo da pesquisa de palavras-chave é ainda mais amplo. Existem outras ferramentas que podem enriquecer muito a sua estratégia. Vamos conhecer algumas delas?
+Google Trends
+
+Você já se perguntou se a palavra-chave que escolheu está em alta ou em queda? O Google Trends mostra como o interesse por um termo evoluiu ao longo do tempo. É ideal para entender a sazonalidade das buscas, como no caso de produtos ou serviços que ganham mais destaque em determinadas épocas do ano. E, a ferramenta permite comparar termos e filtrar por localização, categoria e período.
+
+Página do Google Trends exibindo o interesse pelo termo "Gestão de tarefas" no Brasil, no dia anterior. O gráfico de linha mostra um pico de interesse no dia 18 de maio, por volta das 16h52. Abaixo do gráfico, um mapa do Brasil destaca as sub-regiões com maior interesse: Paraná (100), São Paulo (64) e Minas Gerais (53)
+
+Answer the Public
+
+Enquanto o Ubersuggest e o Keyword Tool focam em variações e volume, o Answer the Public traz uma abordagem diferente: ele mostra perguntas, comparações e sugestões baseadas no comportamento real das pessoas usuárias nos mecanismos de busca. Ao digitar um termo como "gestão de tarefas", por exemplo, você verá perguntas como "quais são as principais ferramentas de gestão?" ou "como fazer gestão de tarefas?". É uma ótima fonte para estruturar conteúdo baseado nas dúvidas reais do seu público.
+
+Ferramenta AnswerThePublic com a pesquisa pelo termo "gestão de tarefas" no Brasil e em português. O volume de buscas é de 880, considerado baixo, e o custo por clique (CPC) é de $6,35. A seção de perguntas mostra que há 9 perguntas relacionadas ao termo, com uma visualização em formato de roda destacando o volume de buscas e o CPC. A interface oferece outras abas como "PAA", "Preposições", "Comparações", "Ordem alfabética" e "Relacionadas"
+
+Semrush
+
+Já pensou em ver o desempenho das palavras-chave que os seus concorrentes estão utilizando? O Semrush é uma plataforma para quem deseja ir além: além de sugestões de palavras-chave, ele mostra estratégias de conteúdo, backlinks, análise de domínio e muito mais. É uma ferramenta paga, mas bastante completa, usada amplamente por agências e empresas que atuam com marketing digital.
+
+Ferramenta Semrush exibindo a análise de palavras-chave para o termo “gestão” no Brasil, com moeda em reais (BRL). O termo apresenta um volume de busca de 22.200, dificuldade de palavra-chave (KD%) de 39 e custo por clique (CPC) de R$ 1,53. A interface mostra a seção “Análise de palavras-chave em lote” com o termo “gestão” sendo analisado individualmente, enquanto outras palavras como “de” e “tarefas” ainda não foram processadas. Há também opções de enviar palavras-chave, atualizar métricas, exportar e gerenciar colunas.
+
+No geral, usar uma única ferramenta pode limitar sua visão sobre o comportamento de busca das pessoas usuárias. Ao combinar dados de diferentes fontes — como volume, variações, perguntas frequentes e tendências ao longo do tempo — você terá mais clareza para decidir o que, como e quando publicar. Escolha as ferramentas que fazem mais sentido para o seu projeto e experimente diferentes caminhos até encontrar o que funciona melhor para você.
+
+@@10
+O que aprendemos?
+
+Nessa aula, você aprendeu:
+O que é necessário para iniciar o seu planejamento estratégico de SEO;
+O que é um briefing, e como fazer um bom briefing para SEO;
+O que são palavras-chave, e como iniciar sua pesquisa de palavras para montar o seu conteúdo de acordo com o objetivo de marketing.
+
+
+
